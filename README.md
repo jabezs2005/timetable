@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -116,6 +116,7 @@ Execute the program
  </table>
 </body>
 </html>
+```
 
 
 # OUPUT
