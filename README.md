@@ -31,8 +31,8 @@ Execute the program
  <div align="center">
  <img src="logo.png" height="100" width="1000" align="center">
  </div>
- <h4 align="center" width="700">SLOT TIME TABLE - ABDUR RAHMAN BASIL A H
-(23009177)</h4>
+ <h4 align="center" width="700">SLOT TIME TABLE - JABEZ S
+(23000370)</h4>
  <table bgcolor="cyan" align="center" height="200">
  <tr bgcolor="Yellow">
  <th width="100">Day/Time</th>
