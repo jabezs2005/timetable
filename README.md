@@ -117,11 +117,8 @@ Execute the program
 </body>
 </html>
 ```
-
-
-## OUPUT:
+### OUPUT:
 ![image](https://github.com/jabezs2005/timetable/assets/147473463/86eb4118-0567-48c2-a508-dbbed6968bfd)
 
-## Result :
-
+### Result :
 The time table has been created successfully.
